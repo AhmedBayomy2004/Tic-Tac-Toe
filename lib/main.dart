@@ -82,7 +82,6 @@ class _MyAppState extends State<MyApp> {
               height: 500,
               padding: EdgeInsets.all(10),
               child: Expanded(
-                flex: 3,
                 child: GridView.builder(
                     itemCount: 9,
                     gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
