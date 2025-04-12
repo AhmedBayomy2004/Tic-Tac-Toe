@@ -15,24 +15,17 @@ To run this project locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/AhmedBayomy2004/Tic-Tac-Toe.git
-Navigate to the project directory:
+2. **Navigate to the project directory:**
+   ```bash
+   cd Tic-Tac-Toe
+3. **Get the dependencies:**
+   ```bash
+   flutter pub get
+4. **Run the app:**
+   ```bash
+   flutter run
+   
 
-bash
-Copy
-Edit
-cd Tic-Tac-Toe
-Get the dependencies:
-
-bash
-Copy
-Edit
-flutter pub get
-Run the app:
-
-bash
-Copy
-Edit
-flutter run
 ## 🙋‍♂️ Feedback & Contributions
 I’d love to hear your thoughts! Whether it's a bug report, feature request, or code improvement, feel free to open an issue or pull request. Your feedback and contributions are greatly appreciated.
 
